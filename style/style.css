@@ -1,0 +1,87 @@
+body
+{
+	padding-left: 15%;
+	padding-right:15%;
+}
+h1
+{
+	text-align: center;
+
+}
+h3
+{
+	padding:210px;
+
+}
+
+.list-group
+{
+	margin-top:20px;
+	border-radius: 10px;
+	 overflow: scroll;
+	height:630px;
+	align-items: center;
+	 -webkit-overflow-scrolling: touch;
+	/*margin-top:20px;
+	height:500px;
+	background-color: lightgrey	;*/
+
+
+}
+
+.list-group-item
+{
+	background-color: lightgrey;
+	border:1px solid black;
+	align-content: center;
+
+
+}
+
+.list-group-item:hover
+{
+
+	background-color: darkgrey;
+
+
+
+}
+
+footer
+{
+	clear:both;
+
+}
+
+footer li
+{
+display: inline;
+padding:10px;
+}
+
+.statedetail,.statedetail1
+{
+	margin-top:20px;
+	margin-left: 20px;
+	border:1px solid black;
+	float:left;
+	border-radius: 10px;
+	width:550px;
+	height:640px;
+	text-align: center;
+	padding-left:25px;
+	padding-right:25px;
+	background-color: lightgrey;
+
+}
+
+
+/*.bookdetail1
+{
+	float:left;
+	border-radius: 10px;
+}*/
+img {
+	height: 300px;
+	width:300px;
+}
